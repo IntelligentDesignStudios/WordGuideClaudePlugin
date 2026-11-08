@@ -80,7 +80,7 @@ If you remove WordGuide later, remove this line too.
 | `scripture-guidance` skill | The Christian perspective; Scripture that speaks to your situation; exact passages, search, word studies, cross-references, and translation comparisons |
 | `study-journal` skill | Your notes and highlights on verses, study notebooks, finding what you wrote, and your study statistics and settings |
 | `daily-study` skill | Today's chapters from a one-year reading plan, the daily devotional, your plan progress, and memorizing verses with spaced review |
-| `/wordguide:guidance` command | Passages for a topic or situation. Type `/` in Claude to find it. |
+| `/scripture-wordguide:guidance` command | Passages for a topic or situation. Type `/` in Claude to find it. |
 | WordGuide connector | Connects Claude to the WordGuide server at `https://claude-mcp.wordguide.app/mcp` |
 
 The connector's tools:
