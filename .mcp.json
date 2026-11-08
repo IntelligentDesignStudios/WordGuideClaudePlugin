@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wordguide": {
+      "type": "http",
+      "url": "https://claude-mcp.wordguide.app/mcp"
+    }
+  }
+}

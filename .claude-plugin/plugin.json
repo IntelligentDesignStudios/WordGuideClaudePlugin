@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "wordguide",
+  "displayName": "WordGuide",
+  "version": "1.0.0",
+  "description": "Claude answers from a Christian perspective that reads the Bible literally, with Scripture quoted word for word from public-domain and openly licensed translations. Without a WordGuide account: passage lookup, search, cross-references, word studies, a daily reading plan, and devotional. With a WordGuide sign-in: your own notes, highlights, verse memorization, and reading progress.",
+  "author": {
+    "name": "WordGuide",
+    "url": "https://wordguide.app"
+  },
+  "homepage": "https://wordguide.app",
+  "repository": "https://github.com/IntelligentDesignStudios/WordGuideClaudePlugin",
+  "license": "LicenseRef-WordGuide-Proprietary",
+  "keywords": [
+    "Bible",
+    "Scripture",
+    "Christian",
+    "faith",
+    "devotional",
+    "Bible study"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://wordguide.app/docs/claude",
+  "supportUrl": "https://wordguide.app/contact",
+  "privacyPolicyUrl": "https://wordguide.app/privacy",
+  "termsOfServiceUrl": "https://wordguide.app/terms"
+}
