@@ -3,7 +3,7 @@
   "name": "wordguide",
   "displayName": "WordGuide",
   "version": "1.0.0",
-  "description": "Claude answers from a Christian perspective that reads the Bible literally, with Scripture quoted word for word from public-domain and openly licensed translations. Without a WordGuide account: passage lookup, search, cross-references, word studies, a daily reading plan, and devotional. With a WordGuide sign-in: your own notes, highlights, verse memorization, and reading progress.",
+  "description": "WordGuide enables Claude to answer life questions from a Christian perspective that reads the Bible literally, with Scripture quoted word for word from public-domain and openly licensed translations. It offers passage lookup, search, cross-references, word studies, a daily reading plan, and devotional, all without a WordGuide account. By signing in, you can track notes, highlights, verse memorization, and reading progress as well.",
   "author": {
     "name": "WordGuide",
     "url": "https://wordguide.app"
